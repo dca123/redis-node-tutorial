@@ -1,0 +1,13 @@
+{
+  "name": "redis-node-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Devinda Senanayaka <dca123@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ioredis": "^4.24.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
